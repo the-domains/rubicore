@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Rubicore]]></title>
         <description><![CDATA[Rubicore]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rubicore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 02:30:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 02:36:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rubicore/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>If you’ve recently walked into the grocery store looking for milk, you may have noticed how long it took to find it. In fact, think back to every grocery store you’ve ever walked through and you’ll recall that dairy items were far from the entrance. Dairy is one of the most common types of grocery purchases, and marketers have figured out how to make the walk longer (to increase impulse buys) and predictable (so you know where to find them across different stores).</p>]]></description>
-            <link>undefined68404c42-907d-477d-a22e-5a282799c82b/index.html</link>
+            <title><![CDATA[3 Reasons Marketing, Data and UX Teams Should Collaborate]]></title>
+            <description><![CDATA[<article><h1>3 Reasons Marketing, Data and UX Teams Should Collaborate</h1><p>If you’ve recently walked into the grocery store looking for milk, you may have noticed how long it took to find it. In fact, think back to every grocery store you’ve ever walked through and you’ll recall that dairy items were far from the entrance. Dairy is one of the most common types of grocery purchases, and marketers have figured out how to make the walk longer (to increase impulse buys) and predictable (so you know where to find them across different stores).</p></article>]]></description>
+            <link>https://thegrid.ai/rubicore/68404c42-907d-477d-a22e-5a282799c82b/index.html</link>
             <guid isPermaLink="false">68404c42-907d-477d-a22e-5a282799c82b</guid>
-            <pubDate>Thu, 18 Feb 2016 02:30:15 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 02:36:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
