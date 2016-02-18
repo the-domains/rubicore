@@ -1,7 +1,7 @@
 name: Rubicore
 favicon: null
 layout_spectrum: 0.15054029505699873
-typography_spectrum: 0.8368800503667444
+typography_spectrum: 0.25257
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#160600'
   brandStrength: 0.13616709457710385
   lightness: 0.17858069576323032
-  saturation: 0.1135215419344604
+  saturation: 0.6875
   rhythmicContrast: 0.22043843218125403
 purpose: []
